@@ -31,16 +31,63 @@ Link da planilha no Google Sheets: [Planilha de Análise Financeira](https://doc
 
 ## Visualização
 - Gráfico de colunas para análise descritiva: Variação versus Empresa (maior e menor variação no dia)
+
+<br/>
+<img src="imagens/fig1_variação_empresa.png" width="500px" height="400px"/> 
+<br/>
+
 - Gráficos de pizza para variações positivas: Variação versus Segmento
-    - Variação de quem subiu < 1 bi $ versus Segmento
-    - Exclusão de pontos fora da curva (outliers)
-        - Exclusão de variação de quem subiu < 1 bi $ versus Segmento
-        - Exclusão de variação de quem subiu < 400M $ versus Segmento
+    - Variação de quem subiu $ versus Segmento
+
+<br/>
+<img src="imagens/fig2_variação_subiu_segmento.png" width="500px" height="400px"/> 
+<br/>
+
+- Exclusão de pontos fora da curva (outliers): Variação de quem subiu < 1 bi $ versus Segmento
+
+<br/>
+<img src="imagens/fig3_variação_subiu_menor_1bi_segmento.png" width="500px" height="400px"/> 
+<br/>
+
+- Exclusão de pontos fora da curva (outliers): Variação de quem subiu < 400M $ versus Segmento
+
+<br/>
+<img src="imagens/fig4_variação_subiu_menor_4M_segmento.png" width="500px" height="400px"/> 
+<br/>
+
 - Gráfico de barras para variações negativas: Variação versus Segmento
     - Variação de quem desceu $ versus Segmento
-    - Exclusão de pontos fora da curva (outliers)
-        - Variação de quem desceu até -800M $ versus Segmento
-        - Variação de quem desceu até -500M $ versus Segmento
+
+<br/>
+<img src="imagens/fig5_variação_desceu_segmento.png" width="500px" height="400px"/> 
+<br/>
+
+- Exclusão de pontos fora da curva (outliers): Variação de quem desceu até -800M $ versus Segmento
+
+<br/>
+<img src="imagens/fig6_variação_desceu_ate_menos_800_segmento.png" width="500px" height="400px"/> 
+<br/>
+
+- Exclusão de pontos fora da curva (outliers): Variação de quem desceu até -500M $ versus Segmento
+
+<br/>
+<img src="imagens/fig7_variação_desceu_ate_menos_500_segmento.png" width="500px" height="400px"/> 
+<br/>
+
 - Gráfico de colunas para comparação de variações que subiram, estabilizadas e desceram
+
+<br/>
+<img src="imagens/fig8_variação_resultado.png" width="500px" height="400px"/> 
+<br/>
+
 - Gráfico de áreas para comparação de variações versus faixa de Idade da Empresa
+
+<br/>
+<img src="imagens/fig9_qtde_empresa_idade_empresa.png" width="500px" height="400px"/> 
+<br/>
+
 - Gráfico de colunas para comparação de Qtde de Empresa versus a faixa de Idade da Empresa
+
+<br/>
+<img src="imagens/fig10_variação_idade_empresa.png" width="500px" height="400px"/> 
+<br/>
