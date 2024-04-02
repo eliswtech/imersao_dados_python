@@ -11,9 +11,11 @@ Acesso ao código: [Manipulação de Dados com Python](https://colab.research.go
 para o ambiente do Colab durante a execução do notebook
 
 ## Importação da bibliotecas
-- Biblioteca Pandas:
+- Biblioteca Manipulação:
     - import pandas as pd
-
+- Biblioteca Visualização:
+    - import plotly.express
+    
 ## Crição de dataframe
 - df_principal, 82 rows × 11 columns
 - df_chat_gpt, 78 rows × 4 columns
